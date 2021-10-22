@@ -17,7 +17,7 @@ workflows:
                 # - google_play # <-- (Includes GCLOUD_SERVICE_ACCOUNT_CREDENTIALS <-- Put your google-services.json)
                 # - other
             vars:
-                PACKAGE_NAME: "com.lessonportal.tap3pro" # <-- Put your package name here e.g. com.domain.myapp
+                PACKAGE_NAME: "com.offsureit.recordingstudio" # <-- Put your package name here e.g. com.domain.myapp
             node: latest
         triggering:
             events:
@@ -94,7 +94,7 @@ workflows:
             vars:
                 XCODE_WORKSPACE: "ios/YOUR_WORKSPACE_NAME.xcworkspace" # <-- Put the name of your Xcode workspace here
                 XCODE_SCHEME: "Teacher" # <-- Put the name of your Xcode scheme here
-                BUNDLE_ID: "com.lessonportal.tap3pro" # <-- Put your Bundle Id here e.g com.domain.myapp
+                BUNDLE_ID: "com.offsureit.recordingstudio" # <-- Put your Bundle Id here e.g com.domain.myapp
                 APP_STORE_APP_ID: 1107280630 # <-- Put the app id number here. This is found in App Store Connect > App > General > App Information
             node: latest
             xcode: 12.5
