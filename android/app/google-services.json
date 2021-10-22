@@ -1,0 +1,129 @@
+{
+  "project_info": {
+    "project_number": "834270141150",
+    "firebase_url": "https://recording-studio-3059b.firebaseio.com",
+    "project_id": "recording-studio-3059b",
+    "storage_bucket": "recording-studio-3059b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834270141150:android:b02963565c4b9ca6",
+        "android_client_info": {
+          "package_name": "com.offsureit.recordingstudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834270141150-ib41foogkirg6bcedu5oautalhpufdvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.offsureit.recordingstudio",
+            "certificate_hash": "83a306ae88116cd767397eb86c16eef2ebbb0cc2"
+          }
+        },
+        {
+          "client_id": "834270141150-4irrlekd4dkb9bop3nm3tvaga3sd3aea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.offsureit.recordingstudio",
+            "certificate_hash": "9bd6e4d83e4ad8ec4cfe21734f922160b8c8cbc3"
+          }
+        },
+        {
+          "client_id": "834270141150-7ahvucs3ekfvqarlnpq7i6ce3q7486kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkJnR1_gdgboiVJNzk33H4GfTlzLCfGJ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834270141150-7ahvucs3ekfvqarlnpq7i6ce3q7486kb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "834270141150-61g6p2nr0n73q5lle73a3g6geuqglk2v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.offsureit.recordingstudio"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834270141150:android:567af19081672360",
+        "android_client_info": {
+          "package_name": "com.oit.neighborhoodwatche"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834270141150-0vjtarbj9t9ugjdft47l2bpp09l0d89m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oit.neighborhoodwatche",
+            "certificate_hash": "83a306ae88116cd767397eb86c16eef2ebbb0cc2"
+          }
+        },
+        {
+          "client_id": "834270141150-sj14vvvp510uqr0qomk0igjq7ka0caoo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oit.neighborhoodwatche",
+            "certificate_hash": "9bd6e4d83e4ad8ec4cfe21734f922160b8c8cbc3"
+          }
+        },
+        {
+          "client_id": "834270141150-7ahvucs3ekfvqarlnpq7i6ce3q7486kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkJnR1_gdgboiVJNzk33H4GfTlzLCfGJ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834270141150-7ahvucs3ekfvqarlnpq7i6ce3q7486kb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "834270141150-61g6p2nr0n73q5lle73a3g6geuqglk2v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.offsureit.recordingstudio"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
